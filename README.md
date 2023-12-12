@@ -37,6 +37,7 @@ Optimizing-Political-Analysis-Advanced-Integration-of-LangChain-with-LLMs/
 ## Installation and Reproduction Instructions
 The following instructions show the steps to reproduce the results of our report. 
 1. **Setting up Environment**: run the following command to install packages used in our project.
+
 ```pip install regex pandas openai seaborn matplotlib langchain``` 
 
 2. **Downloading the raw data**: Download the [raw data](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets/). Make sure the two files `hashtag_donaldtrump.csv` and `hashtag_joebiden.csv` are located under `/data` directory.

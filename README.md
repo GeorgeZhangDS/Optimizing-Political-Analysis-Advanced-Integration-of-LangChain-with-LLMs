@@ -2,12 +2,6 @@
 
 ## Team Members: Yixuan Zhang, Haoyu Fu
 
-<div style="display: flex; justify-content: center;">
-  <a href="https://youtu.be/UppUEKHn50c">
-    <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1702203551/video_to_markdown/images/youtube--UppUEKHn50c-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Elevator Pitch For Optimizing Political Analysis: Advanced Integration of LangChain with LLMs" width="500" height="300">
-  </a>
-</div>
-
 ## Project Description
 The objective of this project is to explore the possibility of using Large Language Models to make predictions on political stances of users from social medias. Currently we are specifically working on using Twitter data collected during the 2020 US Presidential Election with OpenAI models.
 
